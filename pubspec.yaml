@@ -1,9 +1,9 @@
 name: pregsee
-description: "A new Flutter project."
+description: "With you every step of your pregnancy journey"
 
 publish_to: 'none' 
 
-version: 1.0.0+1
+version: 0.1.0+1
 
 environment:
   sdk: ^3.5.4
